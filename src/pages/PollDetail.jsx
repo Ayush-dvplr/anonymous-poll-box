@@ -129,7 +129,7 @@ const PollDetail = () => {
             />
             <button
               type="submit"
-              className="rounded-lg gradient-primary px-4 py-2.5 text-primary-foreground transition-opacity hover:opacity-90"
+              className="rounded-lg bg-primary px-4 py-2.5 text-primary-foreground shadow-md transition-colors hover:bg-primary/90"
             >
               <Send className="h-4 w-4" />
             </button>
